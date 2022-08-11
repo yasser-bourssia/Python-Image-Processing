@@ -7,7 +7,7 @@ Results:
 
 - Harris Detector:
 
-![alt text]((https://media.discordapp.net/attachments/793105657145720862/1007287199588433980/unknown.png)
+![alt text](https://media.discordapp.net/attachments/793105657145720862/1007287199588433980/unknown.png)
 
 - Pixels pairing:
 
